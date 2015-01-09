@@ -7,6 +7,8 @@ Note that each lab used code/knowledge acquired in the last one, therefore:
 * Subroutines are often copied to the next lab
 * The most refined/clear/best version of a give subroutine is probably in Lab 4.
 
+There were five labs in total, but the first one only involved setting up the IDE and learning how to set up projects properly. The course has supplmeental pre-labs which aren't for marks or handed in, so nobody (including myself) ended up completing them. After the first lab, the projects built off of each other with increasing complexity. I'll describe each project here:
+
 1. **Introduction to ARM** - Make an LED flash at 1 Hz.
 2. **Subroutines and Parameter Passing** - Morse code transmitter. Flash the a morse code word on the LED.
 3. **Input/Output Interfacing** - Measure reaction time by flashing lights and counting how long it takes from when the light starts flashing to the user pressing a button.
